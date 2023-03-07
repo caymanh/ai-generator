@@ -27,11 +27,11 @@
   The live app can be accessed [here](https://cayman-dall-e.com/).
 
  <p align="center">
-    <img alt="AI Image Generator 1" src="https://github.com/caymanh/music-app/blob/main/src/assets/lyriks-musically-app.png">
+    <img alt="AI Image Generator 1" src="https://github.com/caymanh/ai-image-generator/blob/main/client/src/assets/AI%20Image%20Generator%201.png">
 </p>
 
  <p align="center">
-    <img alt="AI Image Generator 2" src="https://github.com/caymanh/music-app/blob/main/src/assets/lyriks-musically-app.png">
+    <img alt="AI Image Generator 2" src="https://github.com/caymanh/ai-image-generator/blob/main/client/src/assets/AI%20Image%20Generator%202.png">
 </p>
 
   ### Technology
